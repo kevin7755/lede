@@ -21,4 +21,5 @@
 #zijitianjia
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+#自己添加的 新增上网行为控制插件 OpenAppFilter 
 echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
