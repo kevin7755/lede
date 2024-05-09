@@ -21,3 +21,4 @@
 #zijitianjia
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+echo 'src-git OpenAppFilter https://github.com/destan19/OpenAppFilter.git' >>feeds.conf.default
